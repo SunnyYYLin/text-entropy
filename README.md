@@ -18,7 +18,8 @@
 │       └── tokens.json  # 英文标注数据
 ├── docs  # 文档和报告
 │   ├── images  # 数据分析生成的图像
-│   └── report.md  # 数据分析报告
+│   └── report.md  # 实验报告
+│   └── 网络爬虫-计算中英文本的熵.pdf  # 实验报告PDF版本
 ├── main.ipynb  # 主实验脚本，包含熵值计算、词汇量统计等
 ├── utils  # 工具模块
 │   ├── cleaning.py  # 文本清理工具
